@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: fis-edi
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lucas.assis
+Implementation-Vendor-Id: br.com.senior.fis.edi
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/fis-edi/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
